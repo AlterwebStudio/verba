@@ -7,7 +7,7 @@
                     <div class="box-top">
                         <div class="box-icon"><span class="icon icon-primary icon-lg-bigger material-icons-cached material-icons-device_hub"></span></div>
                         <div class="box-header">
-                            <h5><a href="#">Preklady</a></h5>
+                            <h5><a href="{{ route('preklady') }}">Preklady</a></h5>
                         </div>
                     </div>
                     <div class="divider"></div>
@@ -21,7 +21,7 @@
                     <div class="box-top">
                         <div class="box-icon"><span class="icon icon-primary icon-lg-bigger mdi mdi-shield"></span></div>
                         <div class="box-header">
-                            <h5><a href="#">Úradné preklady</a></h5>
+                            <h5><a href="{{ route('uradne_preklady') }}">Úradné preklady</a></h5>
                         </div>
                     </div>
                     <div class="divider"></div>
@@ -35,7 +35,7 @@
                     <div class="box-top">
                         <div class="box-icon"><span class="icon icon-primary icon-lg-bigger material-icons-supervisor_account"></span></div>
                         <div class="box-header">
-                            <h5><a href="#">Tlmočenie</a></h5>
+                            <h5><a href="{{ route('tlmocenie') }}">Tlmočenie</a></h5>
                         </div>
                     </div>
                     <div class="divider"></div>
@@ -49,7 +49,7 @@
                     <div class="box-top">
                         <div class="box-icon"><span class="icon icon-primary icon-lg-bigger material-icons-remove_red_eye"></span></div>
                         <div class="box-header">
-                            <h5><a href="#">Grafika</a></h5>
+                            <h5><a href="{{ route('grafika') }}">Grafika</a></h5>
                         </div>
                     </div>
                     <div class="divider"></div>

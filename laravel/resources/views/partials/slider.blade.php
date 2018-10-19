@@ -8,7 +8,7 @@
                             <div class="col-md-11 col-lg-10 col-xl-9">
                                 <h2 class="slider-header" data-caption-animate="fadeInUp" data-caption-delay="0s">prekladáme myšlienky,<br>nielen slová...</h2>
                                 <p class="text-bigger text-regular slider-text" data-caption-animate="fadeInUp" data-caption-delay="100">komplexné jazykové riešenia</p>
-                                <a class="button button-icon button-icon-right button-primary big" data-caption-animate="fadeInUp" data-caption-delay="250" href="{{ route('services') }}"><span class="icon icon-xs fa-angle-right"></span>služby</a>
+                                <a class="button button-icon button-icon-right button-primary big" data-caption-animate="fadeInUp" data-caption-delay="250" href="{{ route('sluzby') }}"><span class="icon icon-xs fa-angle-right"></span>služby</a>
                             </div>
                         </div>
                     </div>
@@ -22,7 +22,7 @@
                             <div class="col-md-11 col-lg-10 col-xl-9">
                                 <h2 class="slider-header" data-caption-animate="fadeInUp" data-caption-delay="0s">16 rokov<br>pôsobenia na trhu</h2>
                                 <p class="text-bigger text-regular slider-text" data-caption-animate="fadeInUp" data-caption-delay="100">čerpajte aj vy z našich skúseností...</p>
-                                <a class="button button-icon button-icon-right button-primary big" data-caption-animate="fadeInUp" data-caption-delay="250" href="{{ route('contact') }}"><span class="icon icon-xs fa-angle-right"></span>kontakt</a>
+                                <a class="button button-icon button-icon-right button-primary big" data-caption-animate="fadeInUp" data-caption-delay="250" href="{{ route('kontakt') }}"><span class="icon icon-xs fa-angle-right"></span>kontakt</a>
                             </div>
                         </div>
                     </div>
@@ -35,7 +35,7 @@
                             <div class="col-md-11 col-lg-10 col-xl-9">
                                 <div class="shilder-header-with-divider" data-caption-animate="fadeInUp" data-caption-delay="0s">neúčtujeme si za služby, ktoré sú bežné</div>
                                 <h2 class="slider-header" data-caption-animate="fadeInUp" data-caption-delay="100s">úradné preklady v expresnom termíne bez navýšenia ceny</h2>
-                                <a class="button button-icon button-icon-right button-primary big" data-caption-animate="fadeInUp" data-caption-delay="250" href="{{ route('contact') }}"><span class="icon icon-xs fa-angle-right"></span>pošlite nám váš dokument</a>
+                                <a class="button button-icon button-icon-right button-primary big" data-caption-animate="fadeInUp" data-caption-delay="250" href="{{ route('kontakt') }}"><span class="icon icon-xs fa-angle-right"></span>pošlite nám váš dokument</a>
                             </div>
                         </div>
                     </div>

@@ -96,10 +96,9 @@
             <div class="section-60 section-md-90 context-dark section-bordered-inside overlay-8">
                 <div class="container">
                     <div class="text-center">
-                        <h3>Investment Help</h3>
+                        <h3>Prehľad našich služieb</h3>
                         <p class="block-centered text-white-05" style="max-width: 540px;">
-                            Managing capital for institutions and private investors all over the world. Let investment professionals help you.
-
+                            Všetky naše služby vám radi poskytneme aj samostatne,<br>bez nadväznosti na predchádzajúcu spoluprácu...
                         </p>
                     </div>
                     <div class="row row-50">
@@ -108,7 +107,7 @@
                                 <div class="unit flex-column unit-spacing-sm">
                                     <div class="unit-left"><span class="icon icon-primary icon-lg-bigger mercury-icon-chart-up-2"></span></div>
                                     <div class="unit-body">
-                                        <h5>Wealth Management</h5>
+                                        <h5>Preklady</h5>
                                         <p class="text-white-05">Wealth management is the ability of an advisor or advisory team to deliver a full range of financial services and products to an affluent client in a consultative way.</p>
                                     </div>
                                 </div>
@@ -120,7 +119,7 @@
                                 <div class="unit flex-column unit-spacing-sm">
                                     <div class="unit-left"><span class="icon icon-primary icon-lg-bigger mercury-icon-group"></span></div>
                                     <div class="unit-body">
-                                        <h5>Stocks, Bonds &amp; Mutual Funds</h5>
+                                        <h5>Súdne preklady</h5>
                                         <p class="text-white-05">While stocks typically are higher risk investments due to market volatility, they offer potentially high returns. Let us help you manage your portfolio and offer financial advice. </p>
                                     </div>
                                 </div>
@@ -132,7 +131,7 @@
                                 <div class="unit flex-column unit-spacing-sm">
                                     <div class="unit-left"><span class="icon icon-primary icon-lg-bigger mercury-icon-screen"></span></div>
                                     <div class="unit-body">
-                                        <h5>Insurance &amp; Annuities</h5>
+                                        <h5>Tlmočenie</h5>
                                         <p class="text-white-05">We offer a variety of solutions from leading financial service providers, so you have many options when deciding what type of annuity is right for you.</p>
                                     </div>
                                 </div>
@@ -144,7 +143,7 @@
                                 <div class="unit flex-column unit-spacing-sm">
                                     <div class="unit-left"><span class="icon icon-primary icon-lg-bigger mercury-icon-briefcase"></span></div>
                                     <div class="unit-body">
-                                        <h5>Retirement &amp; College Savings</h5>
+                                        <h5>Korektúry</h5>
                                         <p class="text-white-05">Finding a balance with your money is a crucial part of personal finance. Saving for retirement does not have to be mutually exclusive from saving for college.</p>
                                     </div>
                                 </div>
@@ -156,7 +155,7 @@
                                 <div class="unit flex-column unit-spacing-sm">
                                     <div class="unit-left"><span class="icon icon-primary icon-lg-bigger mercury-icon-presentation-3"></span></div>
                                     <div class="unit-body">
-                                        <h5>Business Owners</h5>
+                                        <h5>Grafika</h5>
                                         <p class="text-white-05">You need a financial plan — one that addresses financial needs for every stage of your business life cycle and takes into account your personal financial goals and dreams.</p>
                                     </div>
                                 </div>
@@ -166,10 +165,8 @@
                         <div class="col-sm-6 col-lg-4">
                             <article class="icon-box-vertical icon-box-vertical-sm">
                                 <div class="unit flex-column unit-spacing-sm">
-                                    <div class="unit-left"><span class="icon icon-primary icon-lg-bigger mercury-icon-money"></span></div>
-                                    <div class="unit-body">
-                                        <h5>Cash &amp; Credit</h5>
-                                        <p class="text-white-05">You may select from our comprehensive suite of managed account programs, which are designed for various levels of investment experience and sophistication.</p>
+                                    <div class="unit-body d-flex align-items-end">
+                                        <a class="button button-icon button-icon-right button-primary big buttons-inset-horizontal-15 align-bottom" href="{{ route('kontakt') }}"><span class="icon icon-xs fa-angle-right"></span>Pošlite nám svoj dokument</a>
                                     </div>
                                 </div>
                             </article>

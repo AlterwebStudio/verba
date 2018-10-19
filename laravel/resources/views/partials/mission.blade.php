@@ -6,7 +6,7 @@
                     <h3>Pošlite nám dokument</h3>
                     <p>Text na preklad nám môžete poslať e-mailom, osobne, poštou alebo na USB kľúči. Klientom z Bratislavy môžeme poň poslať kuriérsku službu. Podobne vám môže byť preklad i doručený.
                         Cena za preklad sa vyráta z preloženého počtu normostrán, pričom jedna normostrana (ns) je 1800 úderov.</p>
-                    <a class="button button-icon button-icon-right button-primary big" href="{{ route('contact') }}"><span class="icon icon-xs fa-angle-right"></span>Kontaktný formulár</a>
+                    <a class="button button-icon button-icon-right button-primary big" href="{{ route('kontakt') }}"><span class="icon icon-xs fa-angle-right"></span>Kontaktný formulár</a>
                     <div class="box-photo-frame"><img src="images/about-1-510x268.jpg" alt="" width="510" height="268"/></div>
                 </div>
             </div>

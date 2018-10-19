@@ -50,70 +50,10 @@
                                 <ul class="rd-navbar-nav">
                                     <li class="active"><a href="/">Domov</a>
                                     </li>
-                                    <li><a href="/sluzby">Služby</a></li>
+                                    <li><a href="{{ route('sluzby') }}">Služby</a></li>
                                     <li><a href="/manazment-kvality">Manažment kvality</a></li>
                                     <li><a href="/referencie">Referencie</a></li>
- {{--                                   <li><a href="#">Pages</a>
-                                        <ul class="rd-navbar-megamenu">
-                                            <li>
-                                                <h5 class="rd-megamenu-header">Cases</h5>
-                                                <ul class="rd-navbar-list">
-                                                    <li><a href="gallery-grid.html">Grid gallery</a></li>
-                                                    <li><a href="gallery-masonry.html">Masonry gallery</a></li>
-                                                    <li><a href="gallery-cobbles.html">Cobbles gallery</a></li>
-                                                    <li><a href="gallery-item.html">Gallery item</a></li>
-                                                </ul>
-                                                <h5 class="rd-megamenu-header">Pages</h5>
-                                                <ul class="rd-navbar-list">
-                                                    <li><a href="about.html">About us</a></li>
-                                                    <li><a href="contacts.html">Contact us</a></li>
-                                                    <li><a href="services.html">Services</a></li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <h5 class="rd-megamenu-header">Pages</h5>
-                                                <ul class="rd-navbar-list">
-                                                    <li><a href="appointment.html">Make an Appointment</a></li>
-                                                    <li><a href="clients.html">Clients</a></li>
-                                                    <li><a href="client-testimonials.html">Client testimonials</a></li>
-                                                    <li><a href="team.html">Our team</a></li>
-                                                    <li><a href="team-member-profile.html">Team member profile</a></li>
-                                                    <li><a href="careers.html">Careers</a></li>
-                                                    <li><a href="pricing.html">Pricing</a></li>
-                                                    <li><a href="faq.html">FAQ</a></li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <h5 class="rd-megamenu-header">Extras</h5>
-                                                <ul class="rd-navbar-list">
-                                                    <li><a href="404-page.html">404 Page</a></li>
-                                                    <li><a href="503-page.html">503 Page</a></li>
-                                                    <li><a href="maintenance.html">Maintenance</a></li>
-                                                    <li><a href="coming-soon.html">Coming soon</a></li>
-                                                    <li><a href="login.html">Login</a></li>
-                                                    <li><a href="register.html">Register</a></li>
-                                                    <li><a href="search-results.html">Search results</a></li>
-                                                    <li><a href="privacy-policy.html">Terms of use</a></li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <h5 class="rd-megamenu-header">Components</h5>
-                                                <ul class="rd-navbar-list">
-                                                    <li><a href="accordion.html">Accordion</a></li>
-                                                    <li><a href="buttons.html">Buttons</a></li>
-                                                    <li><a href="grid.html">Grid</a></li>
-                                                    <li><a href="forms.html">Forms</a></li>
-                                                    <li><a href="icons.html">Icons</a></li>
-                                                    <li><a href="icon-lists.html">Icon lists</a></li>
-                                                    <li><a href="progress-bars.html">Progress bars</a></li>
-                                                    <li><a href="tabs.html">Tabs</a></li>
-                                                    <li><a href="tables.html">Table styles</a></li>
-                                                    <li><a href="typography.html">Typography</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>--}}
-                                    <li><a href="/kontakt">Kontakt</a>
+                                    <li><a href="{{ route('kontakt') }}">Kontakt</a>
                                     </li>
                                 </ul>
                             </div>
@@ -122,7 +62,7 @@
                             <form class="rd-search" action="search-results.html" method="GET" data-search-live="rd-search-results-live" data-search-live-count="6">
                                 <div class="rd-search-inner">
                                     <div class="form-wrap">
-                                        <label class="form-label" for="rd-search-form-input">Search...</label>
+                                        <label class="form-label" for="rd-search-form-input">Vyhľadávanie...</label>
                                         <input class="form-input" id="rd-search-form-input" type="text" name="s" autocomplete="off">
                                     </div>
                                     <button class="rd-search-submit" type="submit"></button>

@@ -1,4 +1,4 @@
-<section class="section parallax-container bg-black" data-parallax-img="images/bg-image-3.jpg">
+<section class="section parallax-container bg-black" data-parallax-img="images/home-slider-1-slide-4.jpg">
     <div class="parallax-content">
         <div class="section-60 section-md-100 overlay-9">
             <div class="container">

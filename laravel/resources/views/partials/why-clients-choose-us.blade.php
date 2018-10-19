@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row justify-content-sm-center justify-content-md-start">
             <div class="col-md-6 context-dark section-image-aside section-image-aside-left pos-relative-before-sm section-60 section-md-0 d-md-flex">
-                <div class="section-image-aside-img" style="background-image: url(images/home-slider-1-slide-4.jpg); background-position: -150px top;">
+                <div class="section-image-aside-img" style="background-image: url(images/home-slider-1-slide-4.jpg);">
                     <div class="section-bordered-inside"></div>
                 </div>
                 <div class="row align-items-md-center offset-top-0">
