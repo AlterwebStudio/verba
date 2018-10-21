@@ -18,7 +18,9 @@
                     <p>Pokiaľ rozsah dokumentu prekračuje hranicu 1800 úderov, stále platí, že sa cena účtuje podľa počtu NORMOSTRÁN (teda 30 riadkov, každý po 60 úderov), nie podľa počtu fyzických strán, ktoré dokument obsahuje. Treba mať však na zreteli, že každá posledná neúplná strana sa považuje za jednu celú stranu.</p>
                     <p class="font-weight-bold">Opísané účtovanie je pre nás, samozrejme, záväzné.</p>
                     <p>V prípade potreby Vám poskytneme odbornú pomoc pri vybavení žiadosti o vstupné vízum do Slovenskej republiky alebo v súvislosti so zabezpečením povolenia na pobyt.</p>
-                    <a class="button button-icon button-icon-right button-primary big buttons-inset-horizontal-15 float-right" href="{{ route('kontakt') }}"><span class="icon icon-xs fa-angle-right"></span>Máte ďalšie otázky?</a>
+
+                    <a class="button button-icon button-icon-right button-primary small buttons-inset-horizontal-15 py-2 float-left" href="mailto:verba@verba.sk"><span class="icon icon-xs fa-angle-right"></span>Pošlite nám vaše dokumenty e-mailom</a>
+                    <a class="button button-icon button-icon-right button-secondary big buttons-inset-horizontal-15 float-right" href="{{ route('kontakt') }}"><span class="icon icon-xs fa-angle-right"></span>Máte ďalšie otázky?</a>
                 </div>
             </div>
         </div>

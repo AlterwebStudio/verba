@@ -41,6 +41,7 @@
                                         rôznych formátoch. Ak máte záujem o grafické spracovanie vašich materiálov pre
                                         digitálny či tlačový výstup, ponúkame vám túto službu i samostatne, bez väzby na
                                         preklad.</p>
+                                    <a class="button button-icon button-icon-right button-primary small buttons-inset-horizontal-15 py-2 mt-4" href="mailto:verba@verba.sk"><span class="icon icon-xs fa-angle-right"></span>Pošlite nám vaše dokumenty e-mailom</a>
                                 </div>
                             </div>
                         </div>
@@ -61,6 +62,7 @@
                                         preklad účtovných závierok, súvah, finančných analýz, ale i kúpno-predajných
                                         zmlúv, zmluvných podmienok, prevodov obchodných podielov, nájomných zmlúv
                                         atď.</p>
+                                    <a class="button button-icon button-icon-right button-primary small buttons-inset-horizontal-15 py-2 mt-4" href="mailto:verba@verba.sk"><span class="icon icon-xs fa-angle-right"></span>Pošlite nám vaše dokumenty e-mailom</a>
                                 </div>
                             </div>
                         </div>
@@ -81,6 +83,7 @@
                                         prekladu prekladateľskou agentúrou VERBA. Overenie prekladu prekladateľskou
                                         agentúrou VERBA garantuje, že preklad v plnej miere zodpovedá originálu a vyjde
                                         vás podstatne lacnejšie ako úradný preklad.</p>
+                                    <a class="button button-icon button-icon-right button-primary small buttons-inset-horizontal-15 py-2 mt-4" href="mailto:verba@verba.sk"><span class="icon icon-xs fa-angle-right"></span>Pošlite nám vaše dokumenty e-mailom</a>
                                 </div>
                             </div>
                         </div>
@@ -102,6 +105,7 @@
                                         VERBA. Skúšobný preklad ponúkame klientom, ktorí majú záujem o dlhodobú
                                         spoluprácu s prekladateľskou agentúrou VERBA, alebo majú záujem o preklad viac
                                         ako 50 normostrán textu. Vyhotovuje sa zdarma a má rozsah do 1 normostrany.</p>
+                                    <a class="button button-icon button-icon-right button-primary small buttons-inset-horizontal-15 py-2 mt-4" href="mailto:verba@verba.sk"><span class="icon icon-xs fa-angle-right"></span>Pošlite nám vaše dokumenty e-mailom</a>
                                 </div>
                             </div>
                         </div>

@@ -11,7 +11,7 @@
                                     <li>
                                         <div class="unit flex-row unit-spacing-xs align-items-center">
                                             <div class="unit-left"><span class="icon icon-xxs icon-white fa-map-marker"></span></div>
-                                            <div class="unit-body"><a class="link-secondary" href="#">Štefánikova 47, 811 04 Bratislava, Slovakia</a></div>
+                                            <div class="unit-body">Štefánikova 47, 811 04 Bratislava, Slovakia</div>
                                         </div>
                                     </li>
                                     <li>
@@ -48,13 +48,11 @@
                         <div class="rd-navbar-nav-wrap">
                             <div class="rd-navbar-nav-inner">
                                 <ul class="rd-navbar-nav">
-                                    <li class="active"><a href="/">Domov</a>
-                                    </li>
-                                    <li><a href="{{ route('sluzby') }}">Služby</a></li>
-                                    <li><a href="/manazment-kvality">Manažment kvality</a></li>
-                                    <li><a href="/referencie">Referencie</a></li>
-                                    <li><a href="{{ route('kontakt') }}">Kontakt</a>
-                                    </li>
+                                    <li @if (request()->route()->uri=='/') class="active" @endif><a href="/">Domov</a></li>
+                                    <li @if (request()->route()->uri=='sluzby') class="active" @endif><a href="{{ route('sluzby') }}">Služby</a></li>
+                                    <li @if (request()->route()->uri=='manazment-kvality') class="active" @endif><a href="/manazment-kvality">Manažment kvality</a></li>
+                                    <li @if (request()->route()->uri=='referencie') class="active" @endif><a href="/referencie">Referencie</a></li>
+                                    <li @if (request()->route()->uri=='kontakt') class="active" @endif><a href="{{ route('kontakt') }}">Kontakt</a></li>
                                 </ul>
                             </div>
                         </div>

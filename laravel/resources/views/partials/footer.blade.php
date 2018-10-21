@@ -9,7 +9,7 @@
                                 <h6 class="text-uppercase">Verba Peregra</h6>
                                 <p class="text-shuttle-gray">"Prichádzať spolu je začiatok, zostať spolu je pokrok, pracovať spolu je úspech..."
                                     <br>Sme prekladateľská agentúra s dlhoročnými skúsenosťami a stovkami spokojných klientov.</p>
-                                <a class="link link-group link-group-animated link-bold link-white" href="#"><span>Čerpajte z našich skúseností</span><span class="icon icon-xxs icon-primary fa fa-angle-right"></span></a>
+                                <a class="link link-group link-group-animated link-bold link-white" href="{{ route('kontakt') }}"><span>Čerpajte z našich skúseností</span><span class="icon icon-xxs icon-primary fa fa-angle-right"></span></a>
                             </div>
                         </div>
                         <div class="col-md-6 col-lg-4">

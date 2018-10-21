@@ -19,6 +19,7 @@
 
 </head>
 <body>
+
 <div class="page">
 
     @include ('partials.preloader')

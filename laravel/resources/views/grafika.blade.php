@@ -72,9 +72,8 @@
                                 </div>
                             </div>
                         </div>
-                        <a class="button button-icon button-icon-right button-primary big buttons-inset-horizontal-15 float-right"
-                           href="{{ route('kontakt') }}"><span class="icon icon-xs fa-angle-right"></span>Máte ďalšie
-                            otázky?</a>
+                        <a class="button button-icon button-icon-right button-primary small buttons-inset-horizontal-15 py-2 float-left" href="mailto:verba@verba.sk"><span class="icon icon-xs fa-angle-right"></span>Pošlite nám vaše dokumenty e-mailom</a>
+                        <a class="button button-icon button-icon-right button-secondary big buttons-inset-horizontal-15 float-right" href="{{ route('kontakt') }}"><span class="icon icon-xs fa-angle-right"></span>Máte ďalšie otázky?</a>
                     </div>
                 </div>
             </div>
